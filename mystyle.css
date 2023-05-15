@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(172, 196, 68);
+  }
+
+  p {
+    color: green;
+    background-color: antiquewhite;
+    text-align: center;
+    text-shadow: 0cqmax;
+  }
+
+  div > p{
+    color: black;
+}
+
+h3+h4{
+    background-color: aquamarine;
+} 
+  
+p ¬ div{
+    background-color: blueviolet;
+}
+
+h3 ¬ h4{
+    background-color: cadetblue;
+}
+
+.exClass{
+    color: rgb(189, 21, 204);
+    text-align: center;
+    background-color: azure;
+    width : fit-content;
+    margin: auto;
+
+}
+
+input[type="text"]{
+    color:brown;
+}
+  /* "*" is a unversal selector   */
+
+ 
